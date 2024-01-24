@@ -13,4 +13,4 @@ Hello! I'm Bilal Hamza, a passionate Software Engineering undergraduate with a s
 - 🌐 Enthusiastic about web development and software engineering.
 - 🚀 Always eager to learn and take on new challenges.
   
-### Looking forward to exploring the world of code together! 🧑‍💻
+### Looking forward to explore the world of code together! 🧑‍💻
