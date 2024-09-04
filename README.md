@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! 👋 I'm [Your Name], a passionate web developer and tech enthusiast.<br>My interests include front-end development, UI/UX design, and creating user-friendly web applications.<br>I love exploring new technologies and using them to solve real-world problems.<br>In my spare time, I work on personal projects that help me learn and grow as a developer.<br><br><br><br><br>
+Hello! 👋 I'm Bilal Hamza, a passionate web developer and tech enthusiast.<br>My interests include front-end development, UI/UX design, and creating user-friendly web applications.<br>I love exploring new technologies and using them to solve real-world problems.<br>In my spare time, I work on personal projects that help me learn and grow as a developer.<br><br><br><br><br>
 
 
 ## 🌐 Socials:
